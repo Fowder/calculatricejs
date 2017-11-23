@@ -1,0 +1,100 @@
+.ecran{
+	position: absolute;
+	margin-left: 30%;
+	width: 39%;
+	margin-top: 14%;
+
+}
+
+button{
+	position: absolute;
+	width: 10%;
+}
+
+#par{
+	margin-left: 30%;
+	margin-top: 17%;
+}
+#pare{
+	margin-left: 40%;
+	margin-top: 17%;
+}
+#del{
+	margin-left: 50%;
+	margin-top: 17%;
+	width: 20%;
+}
+
+#sept{
+	margin-left: 30%;
+	margin-top: 20%;
+}
+
+#huit{
+	margin-left: 40%;
+	margin-top: 20%;
+}
+
+#neuf{
+	margin-left: 50%;
+	margin-top: 20%;
+}
+
+#plus{
+	margin-left: 60%;
+	margin-top: 20%;
+}
+
+#quatre{
+	margin-left: 30%;
+	margin-top: 23%;
+}
+
+#cinq{
+	margin-left: 40%;
+	margin-top: 23%;
+}
+
+#six{
+	margin-left: 50%;
+	margin-top: 23%;
+}
+
+#moins{
+	margin-left: 60%;
+	margin-top: 23%;
+}
+
+#un{
+	margin-left: 30%;
+	margin-top: 26%;
+}
+#deux{
+	margin-left: 40%;
+	margin-top: 26%;
+}
+#trois{
+	margin-left: 50%;
+	margin-top: 26%;
+}
+#mult{
+	margin-left: 60%;
+	margin-top: 26%;
+}
+
+#zero{
+	margin-left: 30%;
+	margin-top: 29%;
+}
+
+#divi{
+	margin-left: 40%;
+	margin-top: 29%;
+}
+
+#egal{
+	margin-left: 50%;
+	margin-top: 29%;
+	width: 20%;
+}
+
